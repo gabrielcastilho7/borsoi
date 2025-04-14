@@ -27,3 +27,10 @@
    </div>
 </body>
 </html>
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: blue;
+
+
+}
